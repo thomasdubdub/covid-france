@@ -10,6 +10,8 @@ The map background is built with [contextily](https://github.com/darribas/contex
 
 The final animated gif is built with matplotlib
 
+<br/>
+
 
 Example: 2021 versus 2020 (hospitalizations and deaths)
 
