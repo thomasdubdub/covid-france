@@ -1,4 +1,4 @@
-# COVID-19 evolution in French departments (Last update: 18/03/21)
+# COVID-19 evolution in France: hospitalizations and deaths in French departments
 
 Visualize evolution of the number of people hospitalized in French departments due to COVID-19 infection
 
@@ -11,7 +11,11 @@ The map background is built with [contextily](https://github.com/darribas/contex
 The final animated gif is built with matplotlib
 
 
+Example: 2021 versus 2020 (hospitalizations and deaths)
 
+![hospitalizations](hospitalizations.png)
+
+![deaths](deaths.png)
 
 Example: Evolution of the number of people hospitalized in French departments due to COVID-19 infection (one year of data)
 
@@ -31,6 +35,8 @@ Example: Plot data of one specific French department (e.g. 31 - Haute-Garonne)
 ## Running the tests
 
 Run the different notebooks to generate curves and map:
+
+* demo-2021-vs-2020: hospitalizations and deaths of 2020 and 2021 on the same plot
 
 * demo-covid-v2: build the animated gif with the map of France (demo-covid is deprecated)
 
