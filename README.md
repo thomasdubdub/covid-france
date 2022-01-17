@@ -1,4 +1,4 @@
-# COVID-19 evolution in France: hospitalizations and deaths in French departments (last update: 21/12/2021 day 355)
+# COVID-19 evolution in France: hospitalizations and deaths in French departments
 
 Visualize evolution of the number of people hospitalized in French departments due to COVID-19 infection
 
