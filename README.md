@@ -13,11 +13,10 @@ The final animated gif is built with matplotlib
 <br/>
 
 
-Example: 2021 versus 2020 (hospitalizations and deaths)
+Example: hospitalizations year after year
 
-![hospitalizations](hospitalizations.png)
+![hospitalizations](year_after_year.png)
 
-![deaths](deaths.png)
 
 Example: Evolution of the number of people hospitalized in French departments due to COVID-19 infection (one year of data)
 
@@ -37,6 +36,8 @@ Example: Plot data of one specific French department (e.g. 31 - Haute-Garonne)
 ## Running the tests
 
 Run the different notebooks to generate curves and map:
+
+* year-after-year: visualize hospitalizations for each day year after year
 
 * demo-2021-vs-2020: hospitalizations and deaths of 2020 and 2021 on the same plot
 
