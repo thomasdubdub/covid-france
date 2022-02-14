@@ -1,4 +1,4 @@
-# COVID-19 evolution in France: hospitalizations and deaths in French departments
+# COVID-19 evolution in France: hospitalizations and deaths in French departments 
 
 Visualize evolution of the number of people hospitalized in French departments due to COVID-19 infection
 
@@ -13,7 +13,7 @@ The final animated gif is built with matplotlib
 <br/>
 
 
-Example: hospitalizations year after year
+Example: hospitalizations year after year (latest update: 14/02/22)
 
 ![hospitalizations](year_after_year.png)
 
