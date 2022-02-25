@@ -1,6 +1,6 @@
-# COVID-19 evolution in France: hospitalizations and deaths in French departments 
+# Visualize evolution of the number of people hospitalized in French departments due to COVID-19 infection
 
-Visualize evolution of the number of people hospitalized in French departments due to COVID-19 infection
+
 
 COVID-19 and geographical data come from the [French open data portal](https://www.data.gouv.fr/fr/)
 
@@ -8,12 +8,12 @@ Data are stored as [pandas](https://pandas.pydata.org/) / [GeoPandas](http://geo
 
 The map background is built with [contextily](https://github.com/darribas/contextily)
 
-The final animated gif is built with matplotlib
+The animated gif is built with matplotlib
 
 <br/>
 
 
-Example: hospitalizations year after year (latest update: 14/02/22)
+Example: hospitalizations year after year (latest update: 25/02/22)
 
 ![hospitalizations](year_after_year.png)
 
