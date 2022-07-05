@@ -13,7 +13,7 @@ The animated gif is built with matplotlib
 <br/>
 
 
-Example: hospitalizations year after year (latest update: 25/02/22)
+Example: hospitalizations year after year (latest update: 05/07/22)
 
 ![hospitalizations](year_after_year.png)
 
